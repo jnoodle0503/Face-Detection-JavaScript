@@ -1,0 +1,25 @@
+{
+  "name": "face-detection-javascript",
+  "version": "1.0.0",
+  "description": "# Run environment * Webstorm IDE's local webserver",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwmw7/Face-Detection-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwmw7/Face-Detection-JavaScript/issues"
+  },
+  "homepage": "https://github.com/mwmw7/Face-Detection-JavaScript#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.5",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "express": "^4.17.1"
+  }
+}
